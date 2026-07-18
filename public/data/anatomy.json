@@ -1,0 +1,594 @@
+[
+  {
+    "id": "reanat-001",
+    "imageRef": "reanat-001_Brick Exchange - Acute Rheumatic Fever and Rheumatic Heart Disease_p8_1.png",
+    "answer": "Anitschkow cells",
+    "brick": "Acute Rheumatic Fever and Rheumatic Heart Disease",
+    "category": "Histology & Cell Biology",
+    "explanation": "Anitschkow cells are activated macrophages with a characteristic central bar of chromatin giving a caterpillar (or owl-eye in cross-section) appearance. They aggregate within Aschoff bodies and are a histologic hallmark of rheumatic carditis."
+  },
+  {
+    "id": "reanat-002",
+    "imageRef": "reanat-002_Brick Exchange - Anatomy of the Diaphragm, Ribs, and Intercostal Muscles_p16_1.png",
+    "answer": "Diaphragm",
+    "brick": "Anatomy of the Diaphragm, Ribs, and Intercostal Muscles",
+    "category": "Gross Anatomy",
+    "explanation": "The diaphragm performs most of the work of quiet inspiration; its contraction flattens the dome, increasing thoracic volume. The scalenes and external intercostals assist, while sternocleidomastoid and other accessory muscles are recruited only in forced inspiration. Abdominal muscles and internal intercostals drive forced expiration."
+  },
+  {
+    "id": "reanat-003",
+    "imageRef": "reanat-003_Brick Exchange - Anatomy of the Diaphragm, Ribs, and Intercostal Muscles_p6_1.png",
+    "answer": "Diaphragm",
+    "brick": "Anatomy of the Diaphragm, Ribs, and Intercostal Muscles",
+    "category": "Gross Anatomy",
+    "explanation": "The caval opening is at T8, the esophageal hiatus at T10, and the aortic hiatus at T12. Recalling '8-10-12' (vena cava, esophagus/vagus, aorta) links each structure to its level."
+  },
+  {
+    "id": "reanat-004",
+    "imageRef": "reanat-004_Brick Exchange - Anatomy of the Diaphragm, Ribs, and Intercostal Muscles_p8_1.png",
+    "answer": "Phrenic nerve",
+    "brick": "Anatomy of the Diaphragm, Ribs, and Intercostal Muscles",
+    "category": "Gross Anatomy",
+    "explanation": "The phrenic nerve descends alongside the pericardium and provides the sole motor innervation to the diaphragm (plus sensory fibers to the pericardium and central diaphragm)."
+  },
+  {
+    "id": "reanat-005",
+    "imageRef": "reanat-005_Brick Exchange - Anatomy of the Heart_p6_1.png",
+    "answer": "Fossa ovalis",
+    "brick": "Anatomy of the Heart",
+    "category": "Gross Anatomy",
+    "explanation": "The fossa ovalis marks the site of the fetal foramen ovale, which shunted blood from the right to left atrium in utero and normally closes after birth as pulmonary circulation is established."
+  },
+  {
+    "id": "reanat-006",
+    "imageRef": "reanat-006_Brick Exchange - Anatomy of the Lower Respiratory Tract_p15_1.png",
+    "answer": "Lung hilum",
+    "brick": "Anatomy of the Lower Respiratory Tract",
+    "category": "Gross Anatomy",
+    "explanation": "The hilum (lung root) is the medial gateway where the main bronchus, pulmonary artery, pulmonary veins, bronchial vessels, lymphatics, and nerves pass between the mediastinum and the lung."
+  },
+  {
+    "id": "reanat-007",
+    "imageRef": "reanat-007_Brick Exchange - Anatomy of the Lower Respiratory Tract_p5_1.png",
+    "answer": "Bronchial tree",
+    "brick": "Anatomy of the Lower Respiratory Tract",
+    "category": "Gross Anatomy",
+    "explanation": "The cast shows the trachea dividing at the carina into main bronchi that branch repeatedly into progressively smaller bronchi and bronchioles, forming the tree-like conducting airways of the lungs."
+  },
+  {
+    "id": "reanat-008",
+    "imageRef": "reanat-008_Brick Exchange - Anatomy of the Lower Respiratory Tract_p8_1.png",
+    "answer": "Bronchopulmonary segments",
+    "brick": "Anatomy of the Lower Respiratory Tract",
+    "category": "Gross Anatomy",
+    "explanation": "A bronchopulmonary segment is supplied by a single segmental (tertiary) bronchus and segmental artery. Because each is a discrete unit, a diseased segment can be surgically resected without disrupting its neighbors."
+  },
+  {
+    "id": "reanat-009",
+    "imageRef": "reanat-009_Brick Exchange - Anatomy of the Upper Respiratory Tract_p27_1.png",
+    "answer": "Laryngopharynx",
+    "brick": "Anatomy of the Upper Respiratory Tract",
+    "category": "Gross Anatomy",
+    "explanation": "The piriform fossa is a frequent site for lodged foreign bodies (e.g., fish bones); its mucosa also overlies the internal laryngeal nerve, which can be injured during foreign-body removal."
+  },
+  {
+    "id": "reanat-010",
+    "imageRef": "reanat-010_Brick Exchange - Anatomy of the Upper Respiratory Tract_p7_1.png",
+    "answer": "Paranasal sinuses",
+    "brick": "Anatomy of the Upper Respiratory Tract",
+    "category": "Gross Anatomy",
+    "explanation": "The cavities shown are the paranasal sinuses (frontal, ethmoid, sphenoid, maxillary). They reduce skull weight, add resonance to the voice, and their mucosa helps condition (warm/humidify) inspired air. Olfaction occurs at the cribriform plate, and tear production is a lacrimal-gland function."
+  },
+  {
+    "id": "reanat-011",
+    "imageRef": "reanat-011_Brick Exchange - Anatomy of the Upper Respiratory Tract_p8_1.png",
+    "answer": "Nasal conchae",
+    "brick": "Anatomy of the Upper Respiratory Tract",
+    "category": "Gross Anatomy",
+    "explanation": "The projections are the nasal conchae (turbinates). By creating turbulent airflow over a large mucosal surface, they warm, humidify, and filter inspired air. The spaces beneath them are the meatuses, into which sinuses and the nasolacrimal duct drain."
+  },
+  {
+    "id": "reanat-012",
+    "imageRef": "reanat-012_Brick Exchange - Arrhythmogenic Right Ventricular Cardiomyopathy_p8_1.png",
+    "answer": "Cardiac muscle",
+    "brick": "Arrhythmogenic Right Ventricular Cardiomyopathy",
+    "category": "Histology & Cell Biology",
+    "explanation": "Intercalated discs are the step-like junctions unique to cardiac muscle; they contain desmosomes and gap junctions that mechanically and electrically couple cardiomyocytes. Desmosomal failure at these discs underlies ARVC."
+  },
+  {
+    "id": "reanat-013",
+    "imageRef": "reanat-013_Brick Exchange - Autoimmune Diseases with Respiratory Manifestations_p14_1.png",
+    "answer": "Honeycomb lung",
+    "brick": "Autoimmune Diseases with Respiratory Manifestations",
+    "category": "Histology & Cell Biology",
+    "explanation": "The clustered enlarged cystic spaces embedded in fibrous tissue represent honeycomb change, the histologic end point of usual interstitial pneumonia and other progressive fibrosing interstitial lung diseases."
+  },
+  {
+    "id": "reanat-014",
+    "imageRef": "reanat-014_Brick Exchange - Autoimmune Diseases with Respiratory Manifestations_p3_1.png",
+    "answer": "Alveolar hemorrhage",
+    "brick": "Autoimmune Diseases with Respiratory Manifestations",
+    "category": "Histology & Cell Biology",
+    "explanation": "Filling of intact alveoli with red blood cells indicates alveolar hemorrhage, a manifestation of pulmonary capillaritis seen in autoimmune conditions such as anti-GBM disease and ANCA-associated vasculitis."
+  },
+  {
+    "id": "reanat-015",
+    "imageRef": "reanat-015_Brick Exchange - Carotid Stenosis_p16_1.png",
+    "answer": "Carotid endarterectomy",
+    "brick": "Carotid Stenosis",
+    "category": "Gross Anatomy",
+    "explanation": "Carotid endarterectomy involves a longitudinal arteriotomy with surgical removal of the atheromatous plaque and closure of the vessel. It reduces stroke risk in patients with symptomatic high-grade internal carotid stenosis."
+  },
+  {
+    "id": "reanat-016",
+    "imageRef": "reanat-016_Brick Exchange - Control of Ventilation and Effects of Altitude and Exercise_p3_3.png",
+    "answer": "Sternum",
+    "brick": "Control of Ventilation and Effects of Altitude and Exercise",
+    "category": "Gross Anatomy",
+    "explanation": "The sternum is the flat midline bone of the anterior chest wall; the ribs join it anteriorly through costal cartilages to complete the protective thoracic cage."
+  },
+  {
+    "id": "reanat-017",
+    "imageRef": "reanat-017_Brick Exchange - Control of Ventilation and Effects of Altitude and Exercise_p3_6.png",
+    "answer": "Diaphragm",
+    "brick": "Control of Ventilation and Effects of Altitude and Exercise",
+    "category": "Gross Anatomy",
+    "explanation": "The diaphragm is the dome-shaped muscle at the base of the thorax; its contraction flattens the dome, increasing thoracic volume and generating the pressure gradient for inspiration."
+  },
+  {
+    "id": "reanat-018",
+    "imageRef": "reanat-018_Brick Exchange - Coronary Blood Flow- Vascular Physiology_p2_1.png",
+    "answer": "Coronary arteries",
+    "brick": "Coronary Blood Flow- Vascular Physiology",
+    "category": "Gross Anatomy",
+    "explanation": "The coronary arteries arise from the aortic sinuses (of Valsalva) immediately above the aortic valve, so they fill preferentially during diastole when the valve closes."
+  },
+  {
+    "id": "reanat-019",
+    "imageRef": "reanat-019_Brick Exchange - Development of the Aortic Arches_p3_1.png",
+    "answer": "Thyroid gland",
+    "brick": "Development of the Aortic Arches",
+    "category": "Gross Anatomy",
+    "explanation": "The paired lateral lobes joined by a central isthmus draped over the trachea identify the thyroid gland. The delicate nerve ascending in the tracheo-esophageal groove is the recurrent laryngeal nerve, closely related to the gland surgically."
+  },
+  {
+    "id": "reanat-020",
+    "imageRef": "reanat-020_Brick Exchange - Development of the Aortic Arches_p5_1.png",
+    "answer": "Pharyngeal arches",
+    "brick": "Development of the Aortic Arches",
+    "category": "Gross Anatomy",
+    "explanation": "The stacked bulges in the cranial region are the pharyngeal (branchial) arches, separated externally by pharyngeal clefts/grooves. They give rise to structures of the face and neck, and their arch arteries remodel into the great vessels."
+  },
+  {
+    "id": "reanat-021",
+    "imageRef": "reanat-021_Brick Exchange - Development of the Aortic Arches_p5_2.png",
+    "answer": "Pharyngeal cleft",
+    "brick": "Development of the Aortic Arches",
+    "category": "Gross Anatomy",
+    "explanation": "The pharyngeal clefts/grooves are external and lined by ectoderm, whereas the internal pharyngeal pouches are lined by endoderm; the arch cores contain mesoderm and neural crest. Only the first cleft persists as the external auditory meatus."
+  },
+  {
+    "id": "reanat-022",
+    "imageRef": "reanat-022_Brick Exchange - Development of the Aortic Arches_p5_3.png",
+    "answer": "Somites",
+    "brick": "Development of the Aortic Arches",
+    "category": "Gross Anatomy",
+    "explanation": "The regularly repeating paraxial blocks flanking the neural tube are somites. They segment craniocaudally and differentiate into sclerotome (vertebrae/ribs), myotome (skeletal muscle), and dermatome (dermis), providing the body's segmental organization."
+  },
+  {
+    "id": "reanat-023",
+    "imageRef": "reanat-023_Brick Exchange - Development of the Aortic Arches_p6_1.png",
+    "answer": "Aortic arches",
+    "brick": "Development of the Aortic Arches",
+    "category": "Gross Anatomy",
+    "explanation": "The paired arteries connecting the aortic sac to the dorsal aortae through each pharyngeal arch are the aortic (pharyngeal) arch arteries. Selective regression and persistence of these six pairs generate the asymmetric adult arch of the aorta and its branches."
+  },
+  {
+    "id": "reanat-024",
+    "imageRef": "reanat-024_Brick Exchange - Development of the Aortic Arches_p9_1.png",
+    "answer": "Ductus arteriosus",
+    "brick": "Development of the Aortic Arches",
+    "category": "Gross Anatomy",
+    "explanation": "The left 6th aortic arch forms the proximal left pulmonary artery and the ductus arteriosus, which shunts blood from the pulmonary trunk to the descending aorta in fetal life and closes postnatally to become the ligamentum arteriosum."
+  },
+  {
+    "id": "reanat-025",
+    "imageRef": "reanat-025_Brick Exchange - Development of the Respiratory Tract_p10_1.png",
+    "answer": "Alveolus",
+    "brick": "Development of the Respiratory Tract",
+    "category": "Histology & Cell Biology",
+    "explanation": "The cuboidal type II pneumocyte secretes pulmonary surfactant, which lowers alveolar surface tension and prevents alveolar collapse at end-expiration. Type I pneumocytes form the thin gas-exchange surface, and macrophages clear debris; endothelial cells line the capillary."
+  },
+  {
+    "id": "reanat-026",
+    "imageRef": "reanat-026_Brick Exchange - Development of the Respiratory Tract_p12_1.png",
+    "answer": "Lung",
+    "brick": "Development of the Respiratory Tract",
+    "category": "Histology & Cell Biology",
+    "explanation": "The delicate polygonal air spaces (alveoli) with thin capillary-containing septa opening off a bronchiolar lumen are the defining histologic architecture of lung parenchyma, specialized for gas exchange."
+  },
+  {
+    "id": "reanat-027",
+    "imageRef": "reanat-027_Brick Exchange - Dilated Cardiomyopathy_p9_1.png",
+    "answer": "Myocarditis",
+    "brick": "Dilated Cardiomyopathy",
+    "category": "Histology & Cell Biology",
+    "explanation": "An interstitial lymphocytic infiltrate with associated myocyte injury defines lymphocytic myocarditis, a common cause of secondary dilated cardiomyopathy."
+  },
+  {
+    "id": "reanat-028",
+    "imageRef": "reanat-028_Brick Exchange - Histology of Blood Vessels and Lymphatics_p10_1.png",
+    "answer": "Elastic fibers",
+    "brick": "Histology of Blood Vessels and Lymphatics",
+    "category": "Histology & Cell Biology",
+    "explanation": "The wavy, refractile, dark-purple/black branching fibers are elastic fibers highlighted by an elastic stain (e.g., Verhoeff/orcein). Their recoil property underlies the elasticity of arteries such as the aorta."
+  },
+  {
+    "id": "reanat-029",
+    "imageRef": "reanat-029_Brick Exchange - Histology of Blood Vessels and Lymphatics_p15_1.png",
+    "answer": "Vein",
+    "brick": "Histology of Blood Vessels and Lymphatics",
+    "category": "Histology & Cell Biology",
+    "explanation": "Veins have thin walls and large lumina and operate under low pressure, serving as capacitance (reservoir) vessels that hold much of the circulating blood volume. The thin wall cannot resist the high pressures seen in arteries."
+  },
+  {
+    "id": "reanat-030",
+    "imageRef": "reanat-030_Brick Exchange - Histology of Blood Vessels and Lymphatics_p17_1.png",
+    "answer": "Capillary",
+    "brick": "Histology of Blood Vessels and Lymphatics",
+    "category": "Histology & Cell Biology",
+    "explanation": "Capillaries consist essentially of a single endothelial layer and basement membrane; this minimal barrier is optimized for diffusion/exchange of O2, CO2, nutrients, and metabolic wastes between blood and tissue."
+  },
+  {
+    "id": "reanat-031",
+    "imageRef": "reanat-031_Brick Exchange - Histology of Blood Vessels and Lymphatics_p22_1.png",
+    "answer": "Sinusoidal fenestrae",
+    "brick": "Histology of Blood Vessels and Lymphatics",
+    "category": "Histology & Cell Biology",
+    "explanation": "Sinusoidal fenestrae are large openings in the endothelium (with discontinuous basement membrane) that allow proteins, and even whole cells, to move between blood and tissue, a property essential in liver, spleen, and bone marrow."
+  },
+  {
+    "id": "reanat-032",
+    "imageRef": "reanat-032_Brick Exchange - Histology of Blood Vessels and Lymphatics_p25_1.png",
+    "answer": "Lymphatic capillary",
+    "brick": "Histology of Blood Vessels and Lymphatics",
+    "category": "Histology & Cell Biology",
+    "explanation": "Lymphatic capillaries have a highly attenuated, overlapping endothelium with anchoring filaments and an absent/discontinuous basement membrane, permitting entry of interstitial fluid and macromolecules to form lymph."
+  },
+  {
+    "id": "reanat-033",
+    "imageRef": "reanat-033_Brick Exchange - Histology of Blood Vessels and Lymphatics_p3_1.png",
+    "answer": "Muscular artery",
+    "brick": "Histology of Blood Vessels and Lymphatics",
+    "category": "Histology & Cell Biology",
+    "explanation": "A single prominent, wavy internal elastic lamina between intima and media is the hallmark of a muscular artery; the waviness results from post-mortem smooth muscle contraction."
+  },
+  {
+    "id": "reanat-034",
+    "imageRef": "reanat-034_Brick Exchange - Histology of Blood Vessels and Lymphatics_p9_1.png",
+    "answer": "Elastic artery",
+    "brick": "Histology of Blood Vessels and Lymphatics",
+    "category": "Histology & Cell Biology",
+    "explanation": "Numerous concentric elastic lamellae throughout a thick media identify an elastic (conducting) artery such as the aorta; the elastin stores energy during systole and recoils during diastole (Windkessel effect) to maintain continuous flow."
+  },
+  {
+    "id": "reanat-035",
+    "imageRef": "reanat-035_Brick Exchange - Histology of the Heart_p11_1.png",
+    "answer": "Cardiac muscle",
+    "brick": "Histology of the Heart",
+    "category": "Histology & Cell Biology",
+    "explanation": "Branching fibers with single central nuclei and interposed capillaries are diagnostic of cardiac muscle, distinguishing it from multinucleated peripheral-nucleus skeletal muscle and spindle-shaped smooth muscle."
+  },
+  {
+    "id": "reanat-036",
+    "imageRef": "reanat-036_Brick Exchange - Histology of the Heart_p13_1.png",
+    "answer": "Intercalated disc",
+    "brick": "Histology of the Heart",
+    "category": "Histology & Cell Biology",
+    "explanation": "Intercalated discs are specialized step-like junctions between cardiomyocytes containing desmosomes/fasciae adherentes (mechanical linkage) and gap junctions (electrical continuity), enabling the myocardium to contract as a functional syncytium."
+  },
+  {
+    "id": "reanat-037",
+    "imageRef": "reanat-037_Brick Exchange - Histology of the Heart_p2_1.png",
+    "answer": "Epicardium",
+    "brick": "Histology of the Heart",
+    "category": "Histology & Cell Biology",
+    "explanation": "The outer surface mesothelium overlying loose connective tissue, adipose, nerves and vessels directly on myocardium is the epicardium, i.e. the visceral layer of the serous pericardium."
+  },
+  {
+    "id": "reanat-038",
+    "imageRef": "reanat-038_Brick Exchange - Histology of the Respiratory Tract_p13_1.png",
+    "answer": "Trachea",
+    "brick": "Histology of the Respiratory Tract",
+    "category": "Histology & Cell Biology",
+    "explanation": "Pseudostratified ciliated columnar (respiratory) epithelium resting on a mucosa/submucosa supported by hyaline cartilage is characteristic of the trachea and large bronchi of the conducting airways."
+  },
+  {
+    "id": "reanat-039",
+    "imageRef": "reanat-039_Brick Exchange - Histology of the Respiratory Tract_p15_1.png",
+    "answer": "Bronchiole",
+    "brick": "Histology of the Respiratory Tract",
+    "category": "Histology & Cell Biology",
+    "explanation": "A small conducting airway lacking cartilage and glands but wrapped by a relatively prominent smooth muscle layer, surrounded by alveoli, identifies a bronchiole; the absence of cartilage distinguishes it from bronchi."
+  },
+  {
+    "id": "reanat-040",
+    "imageRef": "reanat-040_Brick Exchange - Histology of the Respiratory Tract_p16_1.png",
+    "answer": "Bronchus",
+    "brick": "Histology of the Respiratory Tract",
+    "category": "Histology & Cell Biology",
+    "explanation": "The bronchial epithelium is pseudostratified ciliated columnar with goblet cells; cilia sweep mucus-trapped debris up toward the pharynx (mucociliary escalator). Gas exchange occurs only in alveoli, not conducting airways."
+  },
+  {
+    "id": "reanat-041",
+    "imageRef": "reanat-041_Brick Exchange - Histology of the Respiratory Tract_p18_1.png",
+    "answer": "Alveolus",
+    "brick": "Histology of the Respiratory Tract",
+    "category": "Histology & Cell Biology",
+    "explanation": "Type 2 pneumocytes (cuboidal cells) secrete surfactant, which reduces surface tension and prevents alveolar collapse. Type 1 pneumocytes form the thin gas-exchange surface, and dust cells (macrophages) clear debris."
+  },
+  {
+    "id": "reanat-042",
+    "imageRef": "reanat-042_Brick Exchange - Histology of the Respiratory Tract_p21_1.png",
+    "answer": "Lung",
+    "brick": "Histology of the Respiratory Tract",
+    "category": "Histology & Cell Biology",
+    "explanation": "The delicate alveolar architecture with Type 1/Type 2 pneumocytes and macrophages is characteristic of lung parenchyma."
+  },
+  {
+    "id": "reanat-043",
+    "imageRef": "reanat-043_Brick Exchange - Histology of the Respiratory Tract_p22_1.png",
+    "answer": "Visceral pleura",
+    "brick": "Histology of the Respiratory Tract",
+    "category": "Histology & Cell Biology",
+    "explanation": "The visceral pleura is a serous membrane covering the lung; together with the parietal pleura and pleural fluid it minimizes friction as the lung expands and recoils during breathing."
+  },
+  {
+    "id": "reanat-044",
+    "imageRef": "reanat-044_Brick Exchange - Histology of the Respiratory Tract_p3_1.png",
+    "answer": "Pseudostratified columnar epithelium",
+    "brick": "Histology of the Respiratory Tract",
+    "category": "Histology & Cell Biology",
+    "explanation": "Pseudostratified ciliated columnar epithelium with goblet cells lines the trachea; coordinated ciliary beating propels mucus and trapped debris upward (mucociliary escalator)."
+  },
+  {
+    "id": "reanat-045",
+    "imageRef": "reanat-045_Brick Exchange - Histology of the Respiratory Tract_p5_1.png",
+    "answer": "Nasal cavity",
+    "brick": "Histology of the Respiratory Tract",
+    "category": "Gross Anatomy",
+    "explanation": "The section shows the nasal septum and conchae of the nasal cavity, where the olfactory epithelium sits in the roof."
+  },
+  {
+    "id": "reanat-046",
+    "imageRef": "reanat-046_Brick Exchange - Histology of the Respiratory Tract_p6_1.png",
+    "answer": "Olfactory epithelium",
+    "brick": "Histology of the Respiratory Tract",
+    "category": "Histology & Cell Biology",
+    "explanation": "The olfactory epithelium contains bipolar olfactory receptor neurons whose cilia detect odorants; supporting (sustentacular) and basal cells complete the epithelium."
+  },
+  {
+    "id": "reanat-047",
+    "imageRef": "reanat-047_Brick Exchange - Histology of the Respiratory Tract_p8_1.png",
+    "answer": "Respiratory epithelium",
+    "brick": "Histology of the Respiratory Tract",
+    "category": "Histology & Cell Biology",
+    "explanation": "Goblet cells secrete mucus that traps debris and microbes; the cilia of columnar cells then sweep this mucus toward the pharynx, while basal cells act as the regenerative reserve."
+  },
+  {
+    "id": "reanat-048",
+    "imageRef": "reanat-048_Brick Exchange - Histology of the Respiratory Tract_p9_1.png",
+    "answer": "Stratified squamous epithelium",
+    "brick": "Histology of the Respiratory Tract",
+    "category": "Histology & Cell Biology",
+    "explanation": "Nonkeratinizing stratified squamous epithelium lines areas subject to abrasion such as the oropharynx and laryngopharynx, protecting against the passage of food."
+  },
+  {
+    "id": "reanat-049",
+    "imageRef": "reanat-049_Brick Exchange - Inflammatory Disorders of the Pharynx, Larynx, and Trachea_p11_2.png",
+    "answer": "Palatine tonsil",
+    "brick": "Inflammatory Disorders of the Pharynx, Larynx, and Trachea",
+    "category": "Gross Anatomy",
+    "explanation": "The palatine tonsils sit in the tonsillar fossae between the anterior and posterior faucial pillars and are the tonsils most often enlarged and exudative in bacterial tonsillitis."
+  },
+  {
+    "id": "reanat-050",
+    "imageRef": "reanat-050_Brick Exchange - Left Ventricular Hypertrophy and Hypertrophic Cardiomyopathy_p13_1.png",
+    "answer": "Myocyte disarray",
+    "brick": "Left Ventricular Hypertrophy and Hypertrophic Cardiomyopathy",
+    "category": "Histology & Cell Biology",
+    "explanation": "Disorganized, interwoven cardiomyocytes (myofiber disarray) with surrounding fibrosis are the microscopic signature of hypertrophic cardiomyopathy and provide a substrate for arrhythmia and sudden death."
+  },
+  {
+    "id": "reanat-051",
+    "imageRef": "reanat-051_Brick Exchange - Mediastinum (Part 1 of 2)_p13_1.png",
+    "answer": "Esophagus",
+    "brick": "Mediastinum (Part 1 of 2)",
+    "category": "Gross Anatomy",
+    "explanation": "The figure traces the esophagus from its cervical part through the thorax (surrounded by the esophageal plexus formed by the vagus nerves) to its abdominal part after passing through the diaphragmatic hiatus."
+  },
+  {
+    "id": "reanat-052",
+    "imageRef": "reanat-052_Brick Exchange - Mediastinum (Part 1 of 2)_p14_1.png",
+    "answer": "Mediastinum",
+    "brick": "Mediastinum (Part 1 of 2)",
+    "category": "Gross Anatomy",
+    "explanation": "With the ribs spread and lungs removed, the dissection reveals the mediastinum, the central thoracic compartment containing the great vessels, trachea, esophagus, and heart, bounded laterally by the pleural sacs."
+  },
+  {
+    "id": "reanat-053",
+    "imageRef": "reanat-053_Brick Exchange - Mediastinum (Part 1 of 2)_p15_1.png",
+    "answer": "Ligamentum arteriosum",
+    "brick": "Mediastinum (Part 1 of 2)",
+    "category": "Gross Anatomy",
+    "explanation": "The ligamentum arteriosum is the postnatal remnant of the fetal ductus arteriosus; the left recurrent laryngeal nerve passes under the arch just lateral to it, so an aortic aneurysm or mass here can entrap the nerve and cause hoarseness."
+  },
+  {
+    "id": "reanat-054",
+    "imageRef": "reanat-054_Brick Exchange - Mediastinum (Part 1 of 2)_p16_1.png",
+    "answer": "Thymus",
+    "brick": "Mediastinum (Part 1 of 2)",
+    "category": "Gross Anatomy",
+    "explanation": "The thymus lies in the anterior mediastinum behind the manubrium; prominent in children, it involutes with age. Its location makes it a common source of anterior mediastinal masses (e.g., thymoma)."
+  },
+  {
+    "id": "reanat-055",
+    "imageRef": "reanat-055_Brick Exchange - Mediastinum (Part 1 of 2)_p19_1.png",
+    "answer": "Thoracic duct",
+    "brick": "Mediastinum (Part 1 of 2)",
+    "category": "Gross Anatomy",
+    "explanation": "The thoracic duct begins at the cisterna chyli, ascends through the posterior mediastinum, and empties into the venous system at the left jugulosubclavian (venous) angle, returning lymph and chyle from most of the body."
+  },
+  {
+    "id": "reanat-056",
+    "imageRef": "reanat-056_Brick Exchange - Mediastinum (Part 1 of 2)_p20_1.png",
+    "answer": "Mediastinal lymph nodes",
+    "brick": "Mediastinum (Part 1 of 2)",
+    "category": "Gross Anatomy",
+    "explanation": "The figure illustrates the mediastinal lymph node stations; knowledge of these groups underlies cancer staging, as tumor spread to specific nodal stations determines resectability and prognosis."
+  },
+  {
+    "id": "reanat-057",
+    "imageRef": "reanat-057_Brick Exchange - Mitral Regurgitation and Mitral Valve Prolapse_p24_1.png",
+    "answer": "Annuloplasty ring",
+    "brick": "Mitral Regurgitation and Mitral Valve Prolapse",
+    "category": "Gross Anatomy",
+    "explanation": "The device is an annuloplasty ring. It is sewn around a dilated mitral annulus to shrink and reshape it, allowing the native leaflets to coapt again and thereby correcting regurgitation while preserving the patient's own valve."
+  },
+  {
+    "id": "reanat-058",
+    "imageRef": "reanat-058_Brick Exchange - Mitral Regurgitation and Mitral Valve Prolapse_p2_1.png",
+    "answer": "Mitral valve",
+    "brick": "Mitral Regurgitation and Mitral Valve Prolapse",
+    "category": "Gross Anatomy",
+    "explanation": "The two leaflets suspended by chordae tendineae from papillary muscles, with an anterior and posterior leaflet arrangement, are characteristic of the mitral (bicuspid) valve between the left atrium and left ventricle."
+  },
+  {
+    "id": "reanat-059",
+    "imageRef": "reanat-059_Brick Exchange - Mitral Regurgitation and Mitral Valve Prolapse_p9_1.png",
+    "answer": "Myxomatous degeneration",
+    "brick": "Mitral Regurgitation and Mitral Valve Prolapse",
+    "category": "Histology & Cell Biology",
+    "explanation": "Accumulation of proteoglycan-rich ground substance expands the spongiosa and fragments the fibrosa, weakening the leaflet. This myxomatous (myxoid) degeneration produces the redundant, floppy leaflets of mitral valve prolapse."
+  },
+  {
+    "id": "reanat-060",
+    "imageRef": "reanat-060_Brick Exchange - Mitral Stenosis_p2_1.png",
+    "answer": "Mitral valve",
+    "brick": "Mitral Stenosis",
+    "category": "Gross Anatomy",
+    "explanation": "During systole the papillary muscles contract and the chordae tendineae hold the mitral leaflets in a closed position, preventing them from prolapsing back into the left atrium. Failure of this apparatus (e.g., chordal rupture) leads to regurgitation."
+  },
+  {
+    "id": "reanat-061",
+    "imageRef": "reanat-061_Brick Exchange - Mitral Stenosis_p5_1.png",
+    "answer": "Mitral valve",
+    "brick": "Mitral Stenosis",
+    "category": "Gross Anatomy",
+    "explanation": "The bileaflet arrangement with a single broad anterior leaflet, a scalloped three-segment posterior leaflet, and two commissures is the hallmark surgical anatomy of the mitral valve viewed from the left atrium."
+  },
+  {
+    "id": "reanat-062",
+    "imageRef": "reanat-062_Brick Exchange - Overview of Respiratory Physiology_p5_1.png",
+    "answer": "Mucociliary escalator",
+    "brick": "Overview of Respiratory Physiology",
+    "category": "Histology & Cell Biology",
+    "explanation": "Goblet cells and submucosal glands secrete mucus that traps pathogens and debris, while coordinated ciliary beating propels the mucus layer upward toward the pharynx to be cleared, forming the mucociliary escalator."
+  },
+  {
+    "id": "reanat-063",
+    "imageRef": "reanat-063_Brick Exchange - Physiology- Alveolar Gas exchange and Diffusion 2 of 2_p2_1.png",
+    "answer": "Respiratory membrane",
+    "brick": "Physiology- Alveolar Gas exchange and Diffusion 2 of 2",
+    "category": "Histology & Cell Biology",
+    "explanation": "Gas diffusion is inversely proportional to membrane thickness (Fick's law). Thickening any layer of the respiratory membrane, as with pulmonary edema or fibrosis, lengthens the diffusion path and reduces O2/CO2 transfer."
+  },
+  {
+    "id": "reanat-064",
+    "imageRef": "reanat-064_Brick Exchange - Physiology_ Mechanics and pressures of breathing_p4_1.png",
+    "answer": "Respiratory muscles",
+    "brick": "Physiology: Mechanics and pressures of breathing",
+    "category": "Gross Anatomy",
+    "explanation": "The diaphragm is the principal muscle of inspiration; its contraction flattens the dome, increasing thoracic volume and lowering intrathoracic pressure to draw air in. Scalenes and sternocleidomastoid are accessory inspiratory muscles used with increased effort, while the internal intercostals and abdominal muscles (rectus abdominis, obliques) drive active/forced expiration."
+  },
+  {
+    "id": "reanat-065",
+    "imageRef": "reanat-065_Brick Exchange - Pneumoconioses_p11_1.png",
+    "answer": "Silicotic nodule",
+    "brick": "Pneumoconioses",
+    "category": "Histology & Cell Biology",
+    "explanation": "The silicotic nodule is characterized by concentric ('onion-skin') layers of hyalinized collagen. Polarized light reveals birefringent silica particles within it. These nodules coalesce over time and can progress to massive fibrosis."
+  },
+  {
+    "id": "reanat-066",
+    "imageRef": "reanat-066_Brick Exchange - Pneumoconioses_p13_1.png",
+    "answer": "Asbestos bodies",
+    "brick": "Pneumoconioses",
+    "category": "Histology & Cell Biology",
+    "explanation": "Asbestos bodies are ferruginous bodies: thin asbestos fibers coated with an iron-containing proteinaceous material, producing golden-brown beaded rods with knobbed ends. Their presence indicates significant asbestos exposure."
+  },
+  {
+    "id": "reanat-067",
+    "imageRef": "reanat-067_Brick Exchange - Pneumoconioses_p7_1.png",
+    "answer": "Anthracosis",
+    "brick": "Pneumoconioses",
+    "category": "Histology & Cell Biology",
+    "explanation": "Inhaled carbon/coal dust is engulfed by macrophages, producing black anthracotic pigment. Accumulation around bronchioles and in interstitium underlies coal workers' pneumoconiosis (anthracosis when asymptomatic)."
+  },
+  {
+    "id": "reanat-068",
+    "imageRef": "reanat-068_Brick Exchange - Respiratory_ B. pertussis and C. diphtheriae_p19_1.png",
+    "answer": "Bordetella pertussis",
+    "brick": "Respiratory: B. pertussis and C. diphtheriae",
+    "category": "Histology & Cell Biology",
+    "explanation": "Bordetella pertussis is a small, fastidious Gram-negative coccobacillus that stains faintly. It causes whooping cough with the characteristic catarrhal, paroxysmal, and convalescent stages; toxin-mediated ciliary damage produces the severe coughing paroxysms."
+  },
+  {
+    "id": "reanat-069",
+    "imageRef": "reanat-069_Brick Exchange - Respiratory_ B. pertussis and C. diphtheriae_p2_1.png",
+    "answer": "Corynebacterium diphtheriae",
+    "brick": "Respiratory: B. pertussis and C. diphtheriae",
+    "category": "Histology & Cell Biology",
+    "explanation": "Corynebacterium diphtheriae is a Gram-positive, club-shaped bacillus that divides to form V- and Y-shaped 'Chinese letter' arrangements. Its exotoxin (ADP-ribosylates EF-2) causes the pseudomembranous pharyngitis and systemic toxicity of diphtheria."
+  },
+  {
+    "id": "reanat-070",
+    "imageRef": "reanat-070_Brick Exchange - Respiratory_ B. pertussis and C. diphtheriae_p9_1.png",
+    "answer": "Metachromatic granules",
+    "brick": "Respiratory: B. pertussis and C. diphtheriae",
+    "category": "Histology & Cell Biology",
+    "explanation": "Corynebacterium diphtheriae stores polyphosphate as metachromatic (Babes-Ernst/volutin) granules that stain a contrasting color at the cell poles with stains such as Albert or Neisser, aiding presumptive identification."
+  },
+  {
+    "id": "reanat-071",
+    "imageRef": "reanat-071_Brick Exchange - Traumatic Injuries and other Disorders of the Chest Wall, Pleura, Mediastinum, and Lung_p11_1.png",
+    "answer": "Triangle of safety",
+    "brick": "Traumatic Injuries and other Disorders of the Chest Wall, Pleura, Mediastinum, and Lung",
+    "category": "Gross Anatomy",
+    "explanation": "The triangle bounded by pectoralis major, latissimus dorsi, and a line at the 5th intercostal space (nipple level) is the safe zone for tube thoracostomy, avoiding major vessels, the heart, and abdominal organs."
+  },
+  {
+    "id": "reanat-072",
+    "imageRef": "reanat-072_Brick Exchange - Tricuspid Regurgitation and Tricuspid Stenosis_p2_1.png",
+    "answer": "Tricuspid valve",
+    "brick": "Tricuspid Regurgitation and Tricuspid Stenosis",
+    "category": "Gross Anatomy",
+    "explanation": "The valve has anterior, septal, and inferior (posterior) leaflets with intervening commissures and lies adjacent to the AV node region and encircled by the right coronary artery, identifying the right atrioventricular (tricuspid) valve."
+  },
+  {
+    "id": "reanat-073",
+    "imageRef": "reanat-073_Brick Exchange - Vasculature and Lymphatics of the Heart_p3_1.png",
+    "answer": "Coronary artery",
+    "brick": "Vasculature and Lymphatics of the Heart",
+    "category": "Gross Anatomy",
+    "explanation": "The epicardial vessel coursing in a groove and sending penetrating branches deep into the myocardium to perfuse it is a coronary artery. Coronary arteries lie in the epicardial fat and give off intramural branches."
+  },
+  {
+    "id": "reanat-074",
+    "imageRef": "reanat-074_Brick Exchange - Vasculature and Lymphatics of the Heart_p3_2.png",
+    "answer": "Coronary artery",
+    "brick": "Vasculature and Lymphatics of the Heart",
+    "category": "Gross Anatomy",
+    "explanation": "The boxed region highlights an epicardial coronary artery running over the surface of the heart within the epicardial fat, the vessels that supply the myocardium with oxygenated blood."
+  }
+]
